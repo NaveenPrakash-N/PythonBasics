@@ -11,3 +11,6 @@ if pal("madam"):
     print("palindrome")
 else:
     print("not")
+
+
+                                                        
