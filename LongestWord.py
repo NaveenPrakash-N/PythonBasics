@@ -1,6 +1,3 @@
-from itertools import count
-
-
 a = "Python is very powerful programming language"
 di = {}
 st = '' 

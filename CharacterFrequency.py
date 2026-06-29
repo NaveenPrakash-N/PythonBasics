@@ -5,7 +5,6 @@ for i in a:
         dic[i]=1
     else:
         dic[i]+=1
-        print(dic[i] = dic.get(i, 0) + 1)
 print(dic)
 
 # car = {
