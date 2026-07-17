@@ -12,4 +12,3 @@ for i in range(len(reversed)):
     else:
             op += reversed[i]  
 print(op)
-print(reversed)

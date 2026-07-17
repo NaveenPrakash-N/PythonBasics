@@ -14,5 +14,5 @@ for letter in text:
             op += str(count) + ' '
             
 print(op)
-print(text.index('T'))
+
             
